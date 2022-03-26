@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Card de prueba",
+        "img": "./assets/ad.jpg",
+        "category": "ad"
+    },
+    {
+        "title": "Card de prueba",
+        "img": "./assets/illustration.jpg",
+        "category": "illustration"
+    },
+    {
+        "title": "Card de prueba",
+        "img": "./assets/promo.jpg",
+        "category": "promo"
+    },
+    {
+        "title": "Card de prueba",
+        "img": "./assets/ad.jpg",
+        "category": "music"
+    },
+    {
+        "title": "Card de prueba",
+        "img": "./assets/illustration.jpg",
+        "category": "illustration"
+    },
+    {
+        "title": "Card de prueba",
+        "img": "./assets/poema.jpg",
+        "category": "poema"
+    },
+    {
+        "title": "Card de prueba",
+        "img": "./assets/promo.jpg",
+        "category": "promo"
+    },
+    {
+        "title": "Card de prueba",
+        "img": "./assets/ad.jpg",
+        "category": "ad"
+    },
+    {
+        "title": "Card de prueba",
+        "img": "./assets/illustration.jpg",
+        "category": "poema"
+    },
+    {
+        "title": "Card de prueba",
+        "img": "./assets/ad.jpg",
+        "category": "music"
+    } 
+]
